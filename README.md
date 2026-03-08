@@ -40,4 +40,10 @@ Due to company confidentiality policies, the source code for this project cannot
 
 Official internship completion certificate issued by Astrova Aerospace Pvt Ltd.
 
-[View Certificate](SangamiKuppusamy-Internship letter.pdf)
+[View Certificate](SangamiKuppusamy-Internship letter.pdf) 
+
+## Key Learnings
+
+- Built understanding of deploying computer vision models using AWS SageMaker and Lambda.
+- Worked with YOLO-based object detection for aerial surveillance datasets.
+- Contributed to cloud-based inference pipelines and Docker-based deployment workflows.
