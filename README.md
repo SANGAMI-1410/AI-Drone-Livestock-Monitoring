@@ -40,4 +40,4 @@ Due to company confidentiality policies, the source code for this project cannot
 
 Official internship completion certificate issued by Astrova Aerospace Pvt Ltd.
 
-[View Certificate](internship_certificate.pdf)
+[View Certificate](SangamiKuppusamy-Internship letter.pdf)
