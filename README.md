@@ -34,4 +34,10 @@ Cloud Processing (AWS SageMaker / Lambda)
 Object Count and Detection Results  
 
 ## Note
-Due to company confidentiality policies, the source code for this project cannot be shared publicly. This repository documents the architecture and my contributions to the project.
+Due to company confidentiality policies, the source code for this project cannot be shared publicly. This repository documents the architecture and my contributions to the project. 
+
+## Internship Verification
+
+Official internship completion certificate issued by Astrova Aerospace Pvt Ltd.
+
+[View Certificate](internship_certificate.pdf)
