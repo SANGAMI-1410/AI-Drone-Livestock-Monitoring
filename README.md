@@ -6,11 +6,12 @@ During my internship at Astrova Aerospace Pvt Ltd, I contributed to a drone-base
 The system processes aerial video frames and uses object detection models to identify and count objects from drone footage.
 
 ## My Contributions
-- Worked on YOLO-based object detection models for aerial imagery
+
+- Worked on YOLO-based object detection models for aerial drone imagery
 - Processed and annotated 10,000+ image frames for training datasets
-- Assisted in building cloud-based inference workflows using AWS services
-- Contributed to deployment pipelines using Docker and Amazon ECR
-- Supported serverless processing pipelines using AWS Lambda
+- Assisted in building AWS-based inference workflows using SageMaker and S3
+- Contributed to Docker-based deployment pipelines using Amazon ECR
+- Supported serverless processing workflows using AWS Lambda
 
 ## Technologies Used
 - Python
@@ -20,18 +21,22 @@ The system processes aerial video frames and uses object detection models to ide
 - AWS Lambda
 - Amazon S3
 - Docker
+ 
+## System Architecture
 
-## System Architecture (High Level)
+The drone surveillance system processes aerial video streams and performs object detection using a cloud-based pipeline.
 
-Drone Video Feed  
+Drone Camera  
+↓  
+Video Stream  
 ↓  
 Frame Extraction  
 ↓  
-Object Detection (YOLO Model)  
+YOLO Object Detection  
 ↓  
 Cloud Processing (AWS SageMaker / Lambda)  
 ↓  
-Object Count and Detection Results  
+Detection Results and Object Count
 
 ## Note
 Due to company confidentiality policies, the source code for this project cannot be shared publicly. This repository documents the architecture and my contributions to the project. 
