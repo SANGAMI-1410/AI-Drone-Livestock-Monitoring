@@ -47,6 +47,10 @@ Official internship completion certificate issued by Astrova Aerospace Pvt Ltd.
 
 [View Certificate](SangamiKuppusamy-Internship letter.pdf) 
 
+## System Architecture
+
+![System Architecture](system_architecture.png)
+
 ## Key Learnings
 
 - Built understanding of deploying computer vision models using AWS SageMaker and Lambda.
