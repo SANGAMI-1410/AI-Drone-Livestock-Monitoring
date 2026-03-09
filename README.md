@@ -38,6 +38,21 @@ Cloud Processing (AWS SageMaker / Lambda)
 ↓  
 Detection Results and Object Count
 
+## Use Cases
+
+- Border surveillance
+- Wildlife monitoring
+- Disaster response monitoring
+- Crowd monitoring
+- Security surveillance
+
+ ## Future Improvements
+
+- Real-time drone video streaming
+- Edge deployment using NVIDIA Jetson
+- Multi-object tracking
+- Integration with live dashboard for monitoring 
+
 ## Note
 Due to company confidentiality policies, the source code for this project cannot be shared publicly. This repository documents the architecture and my contributions to the project. 
 
