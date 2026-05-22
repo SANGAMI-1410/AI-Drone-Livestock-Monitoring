@@ -21,22 +21,7 @@ The system processes aerial video frames and uses object detection models to ide
 - AWS Lambda
 - Amazon S3
 - Docker
- 
-## System Architecture
-
-The drone surveillance system processes aerial video streams and performs object detection using a cloud-based pipeline.
-
-Drone Camera  
-↓  
-Video Stream  
-↓  
-Frame Extraction  
-↓  
-YOLO Object Detection  
-↓  
-Cloud Processing (AWS SageMaker / Lambda)  
-↓  
-Detection Results and Object Count
+  
 
 ## Use Cases
 
@@ -46,7 +31,7 @@ Detection Results and Object Count
 - Crowd monitoring
 - Security surveillance
 
- ## Future Improvements
+ ## Possible Enhancements
 
 - Real-time drone video streaming
 - Edge deployment using NVIDIA Jetson
@@ -54,7 +39,7 @@ Detection Results and Object Count
 - Integration with live dashboard for monitoring 
 
 ## Note
-Due to company confidentiality policies, the source code for this project cannot be shared publicly. This repository documents the architecture and my contributions to the project. 
+This repository highlights the system architecture, deployment workflow, and my technical contributions during the internship. Source code and production assets are not publicly shared due to organizational confidentiality policies. 
 
 ## Internship Verification
 
