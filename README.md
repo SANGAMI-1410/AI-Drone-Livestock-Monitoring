@@ -45,7 +45,7 @@ This repository highlights the system architecture, deployment workflow, and my 
 
 Official internship completion certificate issued by Astrova Aerospace Pvt Ltd.
 
-[View Certificate](SangamiKuppusamy-Internship letter.pdf) 
+[View Certificate](./internship_certificate.pdf)
 
 ## System Architecture
 
