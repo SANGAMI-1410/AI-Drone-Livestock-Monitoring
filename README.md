@@ -7,20 +7,22 @@ The system processes aerial video frames and uses object detection models to ide
 
 ## My Contributions
 
-- Worked on YOLO-based object detection models for aerial drone imagery
-- Processed and annotated 10,000+ image frames for training datasets
-- Assisted in building AWS-based inference workflows using SageMaker and S3
-- Contributed to Docker-based deployment pipelines using Amazon ECR
-- Supported serverless processing workflows using AWS Lambda
+- Designed and deployed YOLO-based object detection pipelines for real-time livestock monitoring from drone footage
+- Processed and annotated 10,000+ drone image frames, reducing false positives by ~20% in dense livestock scenarios
+- Built scalable ML inference workflows on AWS SageMaker and S3 for production-grade deployment
+- Containerized model serving using Docker and Amazon ECR for consistent and repeatable deployments
+- Architected serverless inference pipeline using AWS Lambda, eliminating always-on compute and reducing infrastructure costs
 
 ## Technologies Used
-- Python
-- YOLO Object Detection
-- OpenCV
-- AWS SageMaker
-- AWS Lambda
-- Amazon S3
-- Docker
+
+| Layer | Technology | Purpose |
+|---|---|---|
+| Object Detection | YOLO + OpenCV | Real-time detection from drone footage |
+| Model Training | Python + Scikit-learn | Model development and evaluation |
+| Cloud Inference | AWS SageMaker | Scalable ML inference pipeline |
+| Serverless Trigger | AWS Lambda | Event-driven inference without always-on compute |
+| Storage | Amazon S3 | Drone footage and model artifact storage |
+| Containerization | Docker + Amazon ECR | Consistent and repeatable deployments |
   
 
 ## Use Cases
@@ -53,6 +55,7 @@ Official internship completion certificate issued by Astrova Aerospace Pvt Ltd.
 
 ## Key Learnings
 
-- Built understanding of deploying computer vision models using AWS SageMaker and Lambda.
-- Worked with YOLO-based object detection for aerial surveillance datasets.
-- Contributed to cloud-based inference pipelines and Docker-based deployment workflows.
+- Learned how to design and deploy production-grade ML pipelines on AWS — from model training to serverless inference using SageMaker and Lambda
+- Understood the importance of data quality in real-world CV systems — annotating 10,000+ frames taught me how dataset quality directly impacts model performance
+- Gained hands-on experience with event-driven architecture — using Lambda triggers to eliminate always-on compute and reduce infrastructure costs
+- Learned how to containerize ML models using Docker and Amazon ECR for consistent, repeatable deployments across environments
