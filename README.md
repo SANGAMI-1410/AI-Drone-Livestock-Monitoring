@@ -38,10 +38,11 @@ The system processes aerial video frames and uses object detection models to ide
 - Real-time drone video streaming
 - Edge deployment using NVIDIA Jetson
 - Multi-object tracking
-- Integration with live dashboard for monitoring 
+- Integration with live dashboard for monitoring
 
 ## Note
-This repository highlights the system architecture, deployment workflow, and my technical contributions during the internship. Source code and production assets are not publicly shared due to organizational confidentiality policies. 
+
+"This repository highlights the system architecture, deployment workflow, and my technical contributions during the internship. Source code and production assets are not publicly shared due to organizational confidentiality policies." 
 
 ## Internship Verification
 
